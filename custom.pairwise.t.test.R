@@ -1,9 +1,8 @@
 #---
 #Date: 25/03/2022
-#Author: Thomas P Spargo <thomas.spargo@kcl.ac.uk>
+#Author: Tyler Burleigh (02/03/2016)
 #
 #Original source: https://stackoverflow.com/questions/27544438/how-to-get-df-and-t-values-from-pairwise-t-test
-#Original function author: Tyler Burleigh (02/03/2016)
 #---
 
 #Contains custom functions for obtaining test statistics and degrees of freedom in pairwise t-test:
